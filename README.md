@@ -2,11 +2,9 @@
 
 ### Payslips with PF, ESI and Professional Tax worked out for you
 
+![Payslip Generator](https://raw.githubusercontent.com/palleprashanthp4-dev/pay-slip-generator/main/assets/payslip-generator.png)
+
 A simple, privacy-focused salary slip generator for Indian employees and businesses.
-
-![Salary Slip Generator](assets/payslip-generator.png)
-
----
 
 ## ⚡ 10-second version
 
