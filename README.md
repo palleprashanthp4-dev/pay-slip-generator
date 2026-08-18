@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://tooladda.online/salary-slip-generator.html"><img src="assets/banner.svg" alt="ToolAdda Salary Slip Generator — payslips with PF, ESI and professional tax auto-calculated" width="860"></a>
+<a href="https://github.com/palleprashanthp4-dev/pay-slip-generator/raw/main/pay-slip-generator/assets/banner.svg"><img src="assets/banner.svg" alt="ToolAdda Salary Slip Generator — payslips with PF, ESI and professional tax auto-calculated" width="860"></a>
 
 # 🧾 Salary Slip Generator
 
